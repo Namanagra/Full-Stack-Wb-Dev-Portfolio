@@ -1,0 +1,63 @@
+.title{
+    background-color: black;
+}
+
+span{
+    font-weight: bold;
+    color: #4C5BE0;
+}
+
+.home{
+    background-color: antiquewhite;
+    margin: 0;
+}
+.container{
+    margin: 0;
+    padding: 0;
+}
+.about{
+    background-color: beige;
+}
+.projects{
+    background-color: bisque;
+}
+.skills{
+    background-color: beige;
+}
+.section{
+    background-color: beige;
+}
+.contact-form h2{
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    font-size: 36px;
+}
+.contact-form form{
+    max-width: 25em;
+    margin: 1rem auto;
+    text-align: center;
+    margin-bottom: 3em;
+} 
+.contact-form form .input-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contact-form form .input-box input,
+.contact-form form textarea{
+    width: 100%;
+    padding: 1.5em;
+    font-size: 18px;
+    color: black;
+    background: rgb(241,241,241);
+    border-radius: .8rem;
+    margin: 0.5rem 0;
+    resize: none;
+}
+.footer{
+    background-color: burlywood;
+}
+.section{
+    background-color: bisque;
+}
